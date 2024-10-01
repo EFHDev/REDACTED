@@ -1,6 +1,4 @@
 # Ultma Hora (1.20.1)
-Yes i know the list looks like shit in some places, blame discord, it looks perfectly fine EVERYWHERE ELSE THAT USES MARKDOWN... Fucking discord
-
 
 # Sanity
 
